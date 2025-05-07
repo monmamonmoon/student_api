@@ -30,7 +30,9 @@
                     @endauth
                 </div>
             @endif
-
+            <div class="flex flex-col justify-center items-center pt-8 sm:pt-0">
+                <h1 class="text-5xl font-bold text-gray-900 dark:text-white">Laravel</h1>
+                <p class="mt-4 text-lg text-gray-600 dark:text-gray-400">The PHP Framework for Web Artisans</p>
             <div class="max-w-7xl mx-auto p-6 lg:p-8">
                 <div class="flex justify-center">
                     <svg viewBox="0 0 62 65" fill="none" xmlns="http://www.w3.org/2000/svg" class="h-16 w-auto bg-gray-100 dark:bg-gray-900">
